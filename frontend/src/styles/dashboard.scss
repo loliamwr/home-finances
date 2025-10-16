@@ -2,9 +2,7 @@ body {
   font-family: "Roboto Light", sans-serif;
 }
 
-h1 {
-  margin-bottom: 60px;
-}
+
 
 .buttons {
   margin-bottom: 140px;
@@ -16,10 +14,11 @@ h1 {
   margin-right: 20px;
   width: 100px;
   height: 37px ;
-  padding: 8px 16px;
+  padding: 6px 16px;
   border: #6C757D 1px solid;
   border-radius: 6px;
   cursor: pointer;
+  color: #6C757D;
   background: none;
 }
 
@@ -69,5 +68,10 @@ canvas {
 .date-link {
   text-decoration: underline;
   color: #6C757D;
+  cursor: pointer;
+}
+.date-linkk {
+  text-decoration: underline;
+  color: #000000;
   cursor: pointer;
 }

@@ -5,7 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41065833-48bb-4b25-b576-aff70499343e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/costs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/create-transactions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/edit-transactions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/profit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/costs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/create-transactions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/edit-transactions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/profit.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/transactions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/costs.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/costs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/create-costs.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/create-costs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/create-profit.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/create-profit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/create-transactions.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/create-transactions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/edit-costs.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/edit-costs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/edit-profit.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/edit-profit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/edit-transactions.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/edit-transactions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/profit.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/profit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/templates/transactions.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/templates/transactions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/dashboard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/dashboard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/costs.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/costs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/create-costs.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/create-costs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/create-profit.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/create-profit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/create-transactions.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/create-transactions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/edit-costs.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/edit-costs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/edit-profit.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/edit-profit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/edit-transactions.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/edit-transactions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/profit.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/profit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/templates/transactions.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/templates/transactions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +69,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="SCSS File" />
       </list>
     </option>
@@ -84,7 +137,25 @@
       <workItem from="1758537437099" duration="9662000" />
       <workItem from="1758576162107" duration="7345000" />
       <workItem from="1758613378372" duration="25413000" />
-      <workItem from="1758703689434" duration="1765000" />
+      <workItem from="1758703689434" duration="2533000" />
+      <workItem from="1758750505009" duration="830000" />
+      <workItem from="1758816827408" duration="1809000" />
+      <workItem from="1758926443322" duration="1806000" />
+      <workItem from="1759404180371" duration="8542000" />
+      <workItem from="1759566520371" duration="598000" />
+      <workItem from="1759704735125" duration="593000" />
+      <workItem from="1759706212972" duration="37952000" />
+      <workItem from="1760018842813" duration="2119000" />
+      <workItem from="1760194080928" duration="1165000" />
+      <workItem from="1760275476679" duration="1152000" />
+      <workItem from="1760277448941" duration="10960000" />
+      <workItem from="1760448639240" duration="351000" />
+      <workItem from="1760557350219" duration="1393000" />
+      <workItem from="1760558817231" duration="1522000" />
+      <workItem from="1760560445151" duration="406000" />
+      <workItem from="1760610964410" duration="2193000" />
+      <workItem from="1760614920153" duration="43000" />
+      <workItem from="1760615005727" duration="155000" />
     </task>
     <servers />
   </component>

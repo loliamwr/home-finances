@@ -5,7 +5,6 @@ export class Dashboard {
         console.log("Dashboard init");
         this.COLORS = ["#FF0000", "#FFA500", "#FFFF00", "#00C49F", "#0088FE"];
 
-        // Шаблон уже загружен через роутер, можно сразу рисовать графики
         this.renderCharts();
     }
 
@@ -36,7 +35,6 @@ export class Dashboard {
             return;
         }
 
-        // Регистрируем все контроллеры и плагины
         Chart.register(...registerables);
 
         new Chart(incomeCanvas, {

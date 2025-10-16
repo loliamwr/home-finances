@@ -54,6 +54,10 @@ module.exports = {
             patterns: [
                 { from: "./src/templates", to: "templates" },
                 { from: "./src/static/images", to: "images" },
+                { from: "./node_modules/bootstrap/dist/css/**/*", to: "css" },
+                // { from: "./node_modules/bootstrap/dist/js/**/*", to: "js" },
+                { from: "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js", to: "js/bootstrap.js" },
+
 
             ],
         }),
